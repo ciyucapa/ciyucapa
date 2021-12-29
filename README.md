@@ -1,4 +1,5 @@
 ### Hi, I´m Cindy Caceres⚡
+passionate about frontEnd development, improving every day to specialize in React.js!😄
 
 <!--
 **ciyucapa/ciyucapa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
