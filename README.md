@@ -2,7 +2,7 @@
 passionate about frontEnd development, improving every day to specialize in React.js!😄
 
 ## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=ciyucapa)](https://github.com/ciyucapa/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ciyucapa&theme=onedark)](https://github.com/ciyucapa/github-profile-trophy)
 
 <!--
 **ciyucapa/ciyucapa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
