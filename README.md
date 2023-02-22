@@ -4,6 +4,10 @@ passionate about frontEnd development, improving every day to specialize in Reac
 ## 🏆 GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=ciyucapa&margin-w=15)](https://github.com/ciyucapa/github-profile-trophy)
 
+## 📊 GitHub Stats:
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ciyucapa)](https://github.com/ciyucapa/github-readme-stats)
+
+
 <!--
 **ciyucapa/ciyucapa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
