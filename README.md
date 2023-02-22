@@ -5,7 +5,7 @@ passionate about frontEnd development, improving every day to specialize in Reac
 [![trophy](https://github-profile-trophy.vercel.app/?username=ciyucapa&margin-w=15)](https://github.com/ciyucapa/github-profile-trophy)
 
 ## 📊 GitHub Stats:
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ciyucapa)](https://github.com/ciyucapa/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ciyucapa&show_icons=true)](https://github.com/ciyucapa/github-readme-stats)
 
 
 <!--
