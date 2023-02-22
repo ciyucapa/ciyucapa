@@ -7,7 +7,7 @@ passionate about frontEnd development, improving every day to specialize in Reac
 ## 📊 GitHub Stats:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ciyucapa&show_icons=true)](https://github.com/ciyucapa/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ciyucapa&langs_count=8)](https://github.com/ciyucapa/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ciyucapa&langs_count=8&layout=compact)](https://github.com/ciyucapa/github-readme-stats)
 
 
 <!--
